@@ -20,7 +20,6 @@
 ###As a panel member, I want a password protect profile via login because I want my personal information to be secure.
 
 ####-username
-
 ####-password
 
 ###As a panel member, I want to be able to propose a topic because I want to inquire if others are also interested in a panel on that topic.
